@@ -1,5 +1,5 @@
 {
-    "name": "ideahq/swagger-ui-bundle",
+    "name": "activelamp/swagger-ui-bundle",
     "description": "Creates a Swagger UI page in your Symfony4 application",
     "authors": [
         {

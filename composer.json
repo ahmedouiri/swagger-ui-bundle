@@ -19,7 +19,6 @@
         "symfony/finder" : "~3.0 || ^4.4",
         "symfony/asset": "~3.0 || ^4.4",
         "symfony/templating": "~3.0 || ^4.4",
-        "symfony/assetic-bundle": "~3.0 || ^4.4",
         "swagger-api/swagger-ui": "^2.1"
     },
     "require-dev" : {
